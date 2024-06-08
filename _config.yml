@@ -1,5 +1,5 @@
 # Basic Information 
-title: Yiran Guan \\(管一然)
+title: Yiran Guan
 position:  MS student
 affiliation: Huazhong University of Science and Technology
 email: yiranguan@hust.edu.cn
@@ -21,8 +21,8 @@ github_link: https://github.com/1ranGuan
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/web_logo.svg
+favicon_dark: ./assets/img/web_logo.svg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
