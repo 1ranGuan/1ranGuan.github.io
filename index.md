@@ -13,7 +13,7 @@ I am a MS student in the School of Software Engineering, Huazhong University of 
 
 ## News
 
-- **[Oct. 2023]** Our paper about video gaze estimation is accepted to IEEE SPL.
+- **[Oct. 2023]** One paper about video gaze estimation is accepted to IEEE SPL.
 
 
 {% include_relative _includes/publications.md %}
