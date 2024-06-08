@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a MS student in the School of Software Engineering, Huazhong University of Science and Technology(HUST). I am currently a member of the [VLR Lab](http://vlrlab.aia.hust.edu.cn/), supervised by [Yuliang Liu](https://openreview.net/profile?id=~Yuliang_Liu2) and [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ). In my undergraduate studies, I was supervised by [Yang Xiao](https://scholar.google.com.tw/citations?hl=zh-CN&user=NeKBuXEAAAAJ) and [Zhiguo Cao](https://scholar.google.com.tw/citations?hl=zh-CN&user=396o2BAAAAAJ).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI High Performance Computing:** dynamic neural network, mixture of expert, dataset condensation
+- **Computer Vision:** object detection, instance segmentation, gaze estimation, pose estimation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** Our paper about video gaze estimation is accepted to IEEE SPL.
+
 
 {% include_relative _includes/publications.md %}
 
