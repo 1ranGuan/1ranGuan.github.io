@@ -8,8 +8,8 @@ I am an MS student in the School of Software Engineering, [Huazhong University o
 
 ## Research Interests
 
-- **AI High-Performance Computing:** mixture of expert, dataset condensation
-- **Computer Vision:** object detection, instance segmentation, gaze estimation, pose estimation
+- **AI High-Performance Computing:** parameter-efficient fine-tuning, mixture of expert, dataset condensation
+- **Computer Vision:** object detection, instance segmentation, gaze estimation, pose estimation, remote sensing image processing
 
 ## News
 
