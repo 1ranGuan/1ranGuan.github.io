@@ -1,5 +1,13 @@
 main:
-
+  - title: MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks
+    authors: Xingkui Zhu*, <strong>Yiran Guan*</strong>, Dingkang Liang, Yuchao Chen, Yuliang Liu, Xiang Bai†
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/pdf/2406.04801v1
+    code: https://github.com/Adlith/MoE-Jetpack
+    image: assets/img/24_MOE.png
+    notes: 
+    
   - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
     authors: <strong>Yiran Guan*</strong>, Zhuoguang Chen*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao† (*Equal contribution, †Corresponding authors) 
     conference_short: IEEE SPL
