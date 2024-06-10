@@ -1,6 +1,6 @@
 main:
 
-  - title: MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks
+  - title: 'MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks'
     authors: Xingkui Zhu*, <strong>Yiran Guan*</strong>, Dingkang Liang, Yuchao Chen, Yuliang Liu, Xiang Bai†
     conference_short: arXiv
     conference: arXiv, 2024.
