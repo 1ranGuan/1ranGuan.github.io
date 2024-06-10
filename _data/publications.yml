@@ -9,7 +9,7 @@ main:
     image: assets/img/24_MOE.png
     
   - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
-    authors: <strong>Yiran Guan*</strong>, Zhuoguang Chen*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao† (*Equal contribution, †Corresponding authors) 
+    authors: <strong>Yiran Guan*</strong>, Zhuoguang Chen*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao†
     conference_short: IEEE SPL
     conference: IEEE Signal Processing Letters, 2023.
     pdf: https://arxiv.org/pdf/2310.18131
