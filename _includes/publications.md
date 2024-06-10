@@ -1,5 +1,7 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+<br/>
+
 (*Equal contribution, †Corresponding authors) 
 
 <div class="publications">
