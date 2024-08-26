@@ -16,6 +16,7 @@ main:
     pdf: 
     code: 
     bibtex:
+    image: assets/img/24_DD.png
     notes: Oral
     
   - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
