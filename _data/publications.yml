@@ -8,6 +8,15 @@ main:
     code: https://github.com/Adlith/MoE-Jetpack
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:J5hwbM5iSO8J:scholar.google.com/&output=citation&scisdr=ClGxy0AREL_Ax9KIMg8:AFWwaeYAAAAAZnKOKg_hTC4XyWzWl7MKNDXT5oc&scisig=AFWwaeYAAAAAZnKOKq1rxWNkQqnw2izcMkS5ZX0&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: assets/img/24_MOE.png
+
+  - title: 'Well Begun is Half Done: The Importance of Initialization in Dataset Distillation'
+    authors: <strong>Yiran Guan</strong>, Zhu Chen, Xingkui Zhu, Dingkang Liang, Yuliang Liu, Xiang Bai†
+    conference_short: ECCV_DD
+    conference: ECCV workshop on Dataset Distillation, 2024.
+    pdf: 
+    code: 
+    bibtex:
+    notes: Oral
     
   - title: End-to-end Video Gaze Estimation via Capturing Head-face-eye Spatial-temporal Interaction Context
     authors: <strong>Yiran Guan*</strong>, Zhuoguang Chen*, Wenzheng Zeng†, Zhiguo Cao, Yang Xiao†
