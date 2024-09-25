@@ -12,7 +12,7 @@ I am an MS student in the School of Software Engineering, [Huazhong University o
 - **Computer Vision:** object detection, instance segmentation, gaze estimation, pose estimation, remote sensing image processing
 
 ## News
-
+- **[Sep. 2024]** I won 2nd place in Track 1 of The First Dataset Distillation Challenge @ ECCV 2024. At the same time, I was invited to give an oral presentation of my workshop paper.
 - **[Oct. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
 
 
@@ -21,6 +21,7 @@ I am an MS student in the School of Software Engineering, [Huazhong University o
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Honors and Awards
+- **[Aug. 2024]** 2nd place in Track 1 of The First Dataset Distillation Challenge @ ECCV 2024
 - **[Jun. 2024]** Outstanding undergraduate graduates from Huazhong University of Science and Technology
 - **[Oct. 2023]** "Challenge Cup" (挑战杯) National Grand Prize (top prize beyond First Prize)
 - **[May 2022]**  Meritorious winner in the Mathematical Contest in Modeling of America
