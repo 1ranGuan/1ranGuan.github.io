@@ -13,7 +13,7 @@ main:
     authors: <strong>Yiran Guan</strong>, Zhu Chen, Xingkui Zhu, Dingkang Liang, Yuliang Liu, Xiang Bai†
     conference_short: ECCV_DD
     conference: ECCV workshop on Dataset Distillation, 2024.
-    pdf: 
+    pdf: https://github.com/1ranGuan/1ranGuan.github.io/blob/main/_data/ECCV_dd.pdf
     code: 
     bibtex:
     image: assets/img/24_DD.png
