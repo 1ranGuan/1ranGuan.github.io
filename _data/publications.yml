@@ -1,5 +1,23 @@
 main:
 
+  - title: 'ThinkOmni: Lifting Textual Reasoning to Omni-modal Scenarios via Guidance Decoding'
+    authors: <strong>Yiran Guan</strong>, Sifan Tu, Dingkang Liang, Linghao Zhu, Jianzhong Ju, Zhenbo Luo, Jian Luan, Yuliang Liu, Xiang Bai†
+    conference_short: ICLR
+    conference: ICLR, 2026.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+
+  - title: 'Shuffle-R1: Efficient RL framework for Multimodal Large Language Models via Data-centric Dynamic Shuffle'
+    authors: Linghao Zhu, <strong>Yiran Guan</strong>, Dingkang Liang, Jianzhong Ju, Zhenbo Luo, Bin Qin, Jian Luan, Yuliang Liu, Xiang Bai†
+    conference_short: ICLR
+    conference: ICLR, 2026.
+    pdf: 
+    code: 
+    bibtex: 
+    image: 
+
   - title: 'MoE Jetpack: From Dense Checkpoints to Adaptive Mixture of Experts for Vision Tasks'
     authors: Xingkui Zhu*, <strong>Yiran Guan*</strong>, Dingkang Liang, Yuchao Chen, Yuliang Liu, Xiang Bai†
     conference_short: NeurIPS
