@@ -16,7 +16,7 @@ google_scholar: https://scholar.google.com.hk/citations?user=1Gx_r4wAAAAJ
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/1ranGuan
 # linkedin: https://www.linkedin.com/
-# twitter: https://twitter.com/
+twitter: https://x.com/yrguan0814
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
@@ -34,7 +34,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
