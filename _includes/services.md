@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>CVPR'25, AAAI'25, ICLR'26, BMVC'26, IJCAI'26, IJCAI'25</autocolor></a></li>
+  <li><autocolor>CVPR'25, AAAI'25, ICLR'26, BMVC'26, IJCAI'25, IJCAI'26</autocolor></li>
 </ul>
 
 <!-- <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
