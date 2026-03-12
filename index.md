@@ -4,14 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am an MS student in the School of Software Engineering, [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST). I received my bachelor's degree in the School of Artificial Intelligence and Automation at HUST. I am currently supervised by [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ). In my undergraduate studies, I was supervised by [Yang Xiao](https://scholar.google.com.tw/citations?hl=zh-CN&user=NeKBuXEAAAAJ).
+I am a Master's student in the School of Software Engineering at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST), working under the supervision of Prof. [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ). Before starting my graduate studies, I earned my Bachelor's degree from HUST's School of Artificial Intelligence and Automation, where I was advised by Prof. [Yang Xiao](https://scholar.google.com.tw/citations?hl=zh-CN&user=NeKBuXEAAAAJ).
 
 ## Research Interests
 
-- **LLM:** test-time-scaling, self-evolving, memory
-- **Multi-modal understanding:** omni-modal understanding, video understanding
+- **LLM:** reasoning, test-time-scaling, self-evolving, memory.
+- **Multi-modal understanding:** omni-modal understanding, video understanding.
 
 ## News
+- **[Jan. 2026]** NEW paper VST has been released!
 - **[Jan. 2026]** Two paper about multi-modal reasoning llm has been accept by ICLR 2026.
 - **[Mar. 2025]** Start my internship at Xiaomi Inc.
 - **[Sep. 2024]** One paper about mixture of expert has been accept by NeurIPS 2024.
