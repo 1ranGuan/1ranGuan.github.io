@@ -1,7 +1,7 @@
 main:
 
   - title: 'Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously'
-    authors: <strong>Yiran Guan*</strong>, Liang Yin, Dingkang Liang, Jianzhong Ju, Zhenbo Luo, Jian Luan, Yuliang Liu, Xiang Bai†
+    authors: <strong>Yiran Guan*</strong>, Liang Yin*, Dingkang Liang, Jianzhong Ju, Zhenbo Luo, Jian Luan, Yuliang Liu, Xiang Bai†
     conference_short: ArXiv
     conference:  ArXiv, 2603
     pdf: 
