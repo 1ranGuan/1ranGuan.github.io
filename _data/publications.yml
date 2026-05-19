@@ -4,7 +4,7 @@ main:
     authors: <strong>Yiran Guan*</strong>, Liang Yin*, Dingkang Liang, Jianzhong Ju, Zhenbo Luo, Jian Luan, Yuliang Liu, Xiang Bai†
     conference_short: ArXiv
     conference:  ArXiv, 2603
-    pdf: 
+    pdf: https://arxiv.org/abs/2603.12262
     code: https://github.com/1ranGuan/VST
     bibtex: 
     image: assets/img/26_VST.png

@@ -8,16 +8,17 @@ I am a Master's student in the School of Software Engineering at [Huazhong Unive
 
 ## Research Interests
 
-- **LLM:** reasoning, test-time-scaling, self-evolving, memory.
-- **Multi-modal understanding:** omni-modal understanding, video understanding.
+- **Large Language Models:** reasoning, test-time scaling, self-evolution, memory.
+- **Multi-modal Understanding:** omni-modal perception, video understanding.
 
 ## News
-- **[Jan. 2026]** NEW paper VST has been released!
-- **[Jan. 2026]** Two paper about multi-modal reasoning llm has been accept by ICLR 2026.
-- **[Mar. 2025]** Start my internship at Xiaomi Inc.
-- **[Sep. 2024]** One paper about mixture of expert has been accept by NeurIPS 2024.
-- **[Sep. 2024]** I won 2nd place in Track 1 of The First Dataset Distillation Challenge @ ECCV 2024. At the same time, I was invited to give an oral presentation of my workshop paper.
-- **[Oct. 2023]** One paper about video gaze estimation has been accepted by IEEE SPL.
+- **[May 2026]** ThinkOmni and Shuffle-R1 are selected as posters at VALSE 2026. A memorable day in Wuhan!
+- **[Jan. 2026]** Our new paper VST has been released on arXiv!
+- **[Jan. 2026]** Two papers on multi-modal reasoning LLMs accepted by ICLR 2026.
+- **[Mar. 2025]** Started my internship at Xiaomi Inc.
+- **[Sep. 2024]** One paper on Mixture of Experts accepted by NeurIPS 2024.
+- **[Sep. 2024]** Won 2nd place in Track 1 of the First Dataset Distillation Challenge @ ECCV 2024, and gave an oral presentation of our workshop paper.
+- **[Oct. 2023]** One paper on video gaze estimation accepted by IEEE SPL.
 
 
 {% include_relative _includes/publications.md %}

@@ -1,48 +1,44 @@
-# Basic Information 
+# Basic Information
 title: Yiran Guan
-position:  MS student
+site_title: Y. Guan's Homepage
+position: MS student
 affiliation: Huazhong University of Science and Technology
+affiliation_link: https://english.hust.edu.cn/
 email: yiranguan@hust.edu.cn
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Yiran Guan, yrguan
 description: homepage for Yiran Guan
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://1ranguan.github.io/
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+# Links
 google_scholar: https://scholar.google.com.hk/citations?user=1Gx_r4wAAAAJ
 cv_link: assets/files/cv.pdf
 github_link: https://github.com/1ranGuan
-# linkedin: https://www.linkedin.com/
 twitter: https://x.com/yrguan0814
+gmail: yrguan0814@gmail.com
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images
 avatar: ./assets/img/homepage_photo.jpg
 favicon: ./assets/img/web_logo.svg
 favicon_dark: ./assets/img/web_logo.svg
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
-
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Sans Serif" # or "Sans Serif"
+# Status line (shown below email in profile)
+status: "I am actively seeking full-time research positions starting 2027."
 
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
+# Navigation
+nav_links:
+  - title: Home
+    url: "#"
+  - title: Research
+    url: "#research-interests"
+  - title: Publications
+    url: "#publications"
+  - title: CV
+    url: "assets/files/cv.pdf"
 
 # The following files will be removed from the generated website.
 exclude:
