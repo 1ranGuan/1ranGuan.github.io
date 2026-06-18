@@ -12,6 +12,7 @@ I am a Master's student in the School of Software Engineering at [Huazhong Unive
 - **Multi-modal Understanding:** omni-modal perception, video understanding.
 
 ## News
+- **[Jun. 2026]** Our paper VST has been accepted by ECCV 2026!
 - **[May 2026]** ThinkOmni and Shuffle-R1 are selected as posters at VALSE 2026. A memorable day in Wuhan!
 - **[Jan. 2026]** Our new paper VST has been released on arXiv!
 - **[Jan. 2026]** Two papers on multi-modal reasoning LLMs accepted by ICLR 2026.
